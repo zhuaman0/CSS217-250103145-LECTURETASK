@@ -1,6 +1,6 @@
 public class BulbAdapter implements SmartDevice {
 
-    private static final int K = 4;
+    private static final int K = 5;
 
     private final LegacyBulb bulb;
 
